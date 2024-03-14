@@ -1,1 +1,2 @@
 hello frenzo Frontend git class
+newline added
