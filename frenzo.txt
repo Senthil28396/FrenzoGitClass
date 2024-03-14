@@ -1,3 +1,4 @@
 hello frenzo Frontend git class
 In master newline added
 newline added
+second line added
